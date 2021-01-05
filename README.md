@@ -1,0 +1,2 @@
+# google-homepage
+The Odin Project - Google homepage mini project
